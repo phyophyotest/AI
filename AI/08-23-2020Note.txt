@@ -1,0 +1,18 @@
+single variable formula
+y=mx+b(Linear Equation)
+
+multiple variabe calculating
+price=m1*area + m2*bedroom +m3*age +b (Linear Equation)
+
+
+m is call     ==>slope or gradient (coef)
+x is call     ==>indenpence value
+y(b) is call     ==>Intercept
+y is depend on x
+price is call ==>horizonal value
+area is call  ==>vertical value
+price =>m * area + b
+m ==>how to get best from fit line
+blue line is==> best fit line
+fit is ==>train
+df is =>dataframe to get from csv file
